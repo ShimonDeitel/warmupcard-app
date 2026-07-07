@@ -1,0 +1,42 @@
+{
+  "identifier": "warmupcard",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Warmupcard Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "warmupcard_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Multiple saved routines and completion-streak tracking",
+              "displayName": "Warmupcard Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "warmupcard_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Warmupcard Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
